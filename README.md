@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Suryaprasad!
 
-I'm a passionate and curious learner driven by the ever-evolving world of **Machine Learning** and **Data Science**, with a growing interest in **Cybersecurity**. I also love bringing creativity to life through **Front-End Development**. Beyond the keyboard, I'm a **Carnatic music enthusiast** and a **keyboard player** 🎹.
+I'm a passionate and curious learner driven by the ever-evolving world of **Machine Learning** and **Data Science**, with a growing interest in **Cybersecurity**. I also love bringing creativity to life through **Front-End Development**. Outside tech, I'm a **Carnatic music enthusiast** and a **keyboard player** 🎹.
 
 ---
 
