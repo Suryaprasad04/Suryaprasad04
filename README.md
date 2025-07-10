@@ -1,5 +1,8 @@
-# 💫 About Me:
-Hi I'm passionate about Machine Learning and Data Science, with a growing interest in Cybersecurity.<br>I also enjoy Front-End Development, blending creativity with functionality.<br>Outside tech, I'm a Carnetic music enthusiast and a keyboard player.
+# 👋 Hello, I'm Suryaprasad!
+
+I'm a passionate and curious learner driven by the ever-evolving world of **Machine Learning** and **Data Science**, with a growing interest in **Cybersecurity**. I also love bringing creativity to life through **Front-End Development**. Beyond the keyboard, I'm a **Carnatic music enthusiast** and a **keyboard player** 🎹.
+
+---
 
 
 ## 🌐 Socials:
